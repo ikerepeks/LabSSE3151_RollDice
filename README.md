@@ -1,6 +1,6 @@
 # lab4sse3151_shakir
 
-A new Flutter project.
+Lab exercise Flutter project for Mobile Apps Development by Shakir 193908
 
 ## Getting Started
 
