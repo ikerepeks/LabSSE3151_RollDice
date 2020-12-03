@@ -1,6 +1,7 @@
-# lab4sse3151_shakir
+# Roll Dice
 
-Lab exercise Flutter project for Mobile Apps Development by Shakir 193908
+Lab exercise Flutter project for Mobile Apps Development by Shakir 193908 </br>
+Flutter apps that change the dice image and produce sound when button is clicked
 
 ## Getting Started
 
